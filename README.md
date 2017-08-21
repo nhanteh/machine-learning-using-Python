@@ -19,7 +19,7 @@
 ### Download class materials
 * **From Git**:
   * ***git***: [Installation instructions](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
-  * ```git clone https://github.com/nhanteh/Deep-Learning-Workshop```
+  * ```git clone https://github.com/nhanteh/machine-learning-using-Python.git```
 
 ### Run IPython Notebook
 **Anaconda distribution:**
