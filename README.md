@@ -1,5 +1,5 @@
 # machine-learning-using-Python
-==
+
 
 ### Requirements:
 * Anaconda 4.4.0 is required for this class. 
