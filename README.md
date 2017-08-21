@@ -3,8 +3,8 @@
 
 ### Requirements:
 * Anaconda 4.4.0 is required for this class. 
-* ***Python*** [Installation Instructions for Mac, Windows and Linux users is provided here](https://docs.continuum.io/anaconda/install/)
-  * You will have the option to select Python 3.6 or Python 2.7. I recommend Python 3.6.
+* ***Anaconda*** [Installation Instructions for Mac, Windows and Linux users is provided here](https://docs.continuum.io/anaconda/install/)
+  * You will have the option to select Anaconda with Python 3.6 or Python 2.7. Python 3.6 is highly recommended.
   If you already have Python installed on your machine you need to make sure the new Anaconda/Python Path is given to the your system in the .bashrc or .bash_profile to avoid conflict among the Pythons on your machine.
  
 * Python libraries required:**Skitlearn**, **Numpy/scipy**, **Keras**, **Tensorflow**.
