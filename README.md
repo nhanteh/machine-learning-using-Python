@@ -7,7 +7,7 @@
   * You will have the option to select Anaconda with Python 3.6 or Python 2.7. Python 3.6 is highly recommended.
   If you already have Python installed on your machine you need to make sure the new Anaconda/Python Path is given to the your system in the .bashrc or .bash_profile to avoid conflict among the Pythons on your machine.
  
-* Python libraries required:**Skitlearn**, **Numpy/scipy**, **Keras**, **Tensorflow**.
+* Python libraries required:**Sklearn**, **Numpy/scipy**, **Keras**, **Tensorflow**.
 
 **==> You can install the following packages for the Anaconda:**
 * ***pip*** (*should be installed on recent Python distributions*) -  [Installation instructions](http://python-packaging-user-guide.readthedocs.io/installing/#install-pip-setuptools-and-wheel). For windows users: If pip is not recognized make sure it is added to the path - [Follow instruction on this error here](http://stackoverflow.com/questions/23708898/pip-is-not-recognized-as-an-internal-or-external-command)
